@@ -1,0 +1,11 @@
+[package]
+name = "Examples"
+version = "0.0.0"
+
+[addresses]
+simple_vault = "_"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "843b204dce971d98449b82624f4f684c7a18b991"
+subdir = "aptos-move/framework/aptos-framework"
