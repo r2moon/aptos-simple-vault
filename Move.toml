@@ -1,6 +1,6 @@
 [package]
-name = "Examples"
-version = "0.0.0"
+name = "SimpleVault"
+version = "0.1.0"
 
 [addresses]
 simple_vault = "_"
